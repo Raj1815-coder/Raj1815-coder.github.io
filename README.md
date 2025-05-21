@@ -1,6 +1,6 @@
 # Name: [Prithvi Rajini Kumar ]
-# Email: [pritdeal@gmail.com]
+# Email: [prajinikumar@my.waketech.edu]
 
-This is my school GitHub account for coursework.
+This is my waketech GitHub account for waketech coursework.
 
 This repository will hold my web development assignments.
