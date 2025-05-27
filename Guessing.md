@@ -3,7 +3,7 @@
 ## Description
 
 Heres how the game works:
-- The computer picks a random number between 1 and n(n=100).
+- The computer picks a random number between 1 and 100.
 - The player guesses a number.
 - If the guess is not a number, it says its invalid and it will ask again.
 - If the guess is too high or too low, it tells the player.
