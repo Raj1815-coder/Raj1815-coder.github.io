@@ -15,7 +15,7 @@ Heres how the game works:
 ```mermaid
 flowchart TD
     Start([Start]) --> Generate["Generate random number (1-100)"]
-    Generate --> Guess["Ask player for guess"]
+    Generate --> Guess["Ask player for input"]
     Guess --> CheckNumber{"Is input a number?"}
     CheckNumber -- No --> Error["Show 'Invalid input'"]
     Error --> Guess
